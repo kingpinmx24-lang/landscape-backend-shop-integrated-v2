@@ -82,7 +82,7 @@
     "tailwindcss-animate": "^1.0.7",
     "three": "^0.183.2",
     "vaul": "^1.1.2",
-    "wouter": "3.7.1",
+    "wouter": "^3.3.5",
     "zod": "^4.1.12",
     "zustand": "^5.0.12"
   },
