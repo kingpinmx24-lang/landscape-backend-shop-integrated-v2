@@ -13,14 +13,6 @@
   ],
   "routes": [
     {
-      "src": "/api/trpc/(.*)",
-      "dest": "server/_core/index.ts"
-    },
-    {
-      "src": "/api/oauth/(.*)",
-      "dest": "server/_core/index.ts"
-    },
-    {
       "src": "/api/(.*)",
       "dest": "server/_core/index.ts"
     },
